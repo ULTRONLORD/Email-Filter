@@ -64,6 +64,8 @@ By adhering to this license, you help prevent piracy of the sample emails used i
 
 ---
 
-If you encounter any challenge and need further assistance do not hesitate to drop an email at `kaile.gerald@lmu.edu.ng` and `ezimako.elvis@lmu.edu.ng`
+If you encounter any challenges and need further assistance do not hesitate to drop an email at `kaile.gerald@lmu.edu.ng` and `ezimako.elvis@lmu.edu.ng`
 
-Feel free to contribute to this project by submitting pull requests or opening issues on [GitHub](https://github.com/ULRONLORD/EMAIL-FILTER). Happy filtering! 📧✨
+And a big shout-out to @ for making this project a reality.
+
+Feel free to contribute to this project but according to the guidelines. Happy filtering! 📧✨
