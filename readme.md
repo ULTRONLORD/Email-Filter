@@ -11,7 +11,7 @@
 
 ## Introduction🗽
 
-The Email Filter Project is a Python-based tool designed to filter email addresses according to predefined rules.
+**The Email Filter Project is a Python-based tool designed to filter email addresses according to predefined rules.**
 
 ## Please note that the email addresses in this repo should be used solely for testing and demonstration purposes, and should not be redistributed or used for any other purpose to avoid piracy.
 
@@ -66,6 +66,6 @@ By adhering to this license, you help prevent piracy of the sample emails used i
 
 If you encounter any challenges and need further assistance do not hesitate to drop an email at `kaile.gerald@lmu.edu.ng` and `ezimako.elvis@lmu.edu.ng`
 
-And a big shout-out to @parachurami1  for making this project a reality.
+And a big shout-out to https://github.com/parachurami1  for making this project a reality.
 
 Feel free to contribute to this project but according to the guidelines. Happy filtering! 📧✨
