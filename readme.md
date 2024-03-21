@@ -1,6 +1,6 @@
 **Email Filter**🧹🧼🫧
 
-**Welcome to the Email Filter Project! This project is aimed at developing a tool to filter emails based on specific criteria. Like a bulky list of unfiltered emails including invalid characters and invalid addresses. Below you'll find everything you need to know to get started with this project.**
+**Welcome to the Email Filter Project! This project is aimed at developing a tool to filter emails based on specific criteria. Like a bulky list of unfiltered email addresses including invalid characters and invalid addresses. Below you'll find everything you need to know to get started with this project.**
 
 ## Table of Contents📃
 
@@ -36,9 +36,9 @@ cd EMAIL-FILTER\
 
 After installation, you can use the Email Filter Project as follows:
 
-1. Ensure you have a list of email addresses for testing purposes. Please note that these emails should be used solely for testing and demonstration purposes, and should not be redistributed or used for any other purpose to avoid piracy.
+1. Ensure you have a list of email addresses to run.
 
-2. Configure your email filtering criteria by modifying the `filter_rules.py` file.
+2. Configure your email filtering criteria by modifying the `main.py` file.
 
 3. Run the main script:
 
@@ -46,7 +46,7 @@ After installation, you can use the Email Filter Project as follows:
 python main.py
 ```
 
-4. Follow the prompts to input the path to your sample emails and execute the filtering process.
+4. Follow the prompts and paste the path to your sample emails and execute the filtering process.
 
 5. Once the filtering process is complete, a new file will be created including the result, that is the filtered addresses
 
