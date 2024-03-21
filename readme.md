@@ -1,6 +1,6 @@
 **Email Filter**🧹🧼🫧
 
-Welcome to the Email Filter Project! This project is aimed at developing a tool to filter emails based on specific criteria. Like a bulky list of unfiltered emails including invalid characters and invalid addresses. Below you'll find everything you need to know to get started with this project.
+**Welcome to the Email Filter Project! This project is aimed at developing a tool to filter emails based on specific criteria. Like a bulky list of unfiltered emails including invalid characters and invalid addresses. Below you'll find everything you need to know to get started with this project.**
 
 ## Table of Contents📃
 
